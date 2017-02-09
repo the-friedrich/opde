@@ -1,0 +1,36 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maketheweb.tk" resolutions="1x" timestamp="1486638307262">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="137046146" ref="index"/>
+    <file name="page.css" crc="159046940" ref="page"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page"/>
+    <file name="museutils.js" crc="4148063285" ref="index:page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:page"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:page"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:page"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:page"/>
+    <file name="require.js" crc="4159430777" ref="index:page"/>
+    <file name="webpro.js" crc="3986320349" ref="page"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="page"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="page"/>
+    <file name="touchswipe.js" crc="221459597" ref="page"/>
+  </folder>
+  <folder name="images">
+    <file name="jellyfish-crop-u97.jpg" crc="255498848" ref="index"/>
+    <file name="jellyfish-crop-u125.jpg" crc="297937969" ref="page"/>
+    <file name="blank.gif" crc="4208392903" ref="page"/>
+    <file name="chrysanthemum-crop-u277.jpg" crc="3929680950" ref="page"/>
+    <file name="desert-crop-u303.jpg" crc="407190785" ref="page"/>
+    <file name="hydrangeas-crop-u329.jpg" crc="4112761925" ref="page"/>
+    <file name="koala-crop-u355.jpg" crc="389350434" ref="page"/>
+    <file name="lighthouse-crop-u381.jpg" crc="4214450037" ref="page"/>
+    <file name="penguins-crop-u407.jpg" crc="3933338455" ref="page"/>
+    <file name="tulips-crop-u433.jpg" crc="4093008554" ref="page"/>
+    <file name="loading.gif" crc="3815509949" ref="page"/>
+  </folder>
+  <file name="index.html" crc="500159364" seo="true" mt="1486638207299" redirect="true"/>
+  <file name="page.html" crc="8008747" seo="true" mt="1486638165669" redirect="true"/>
+</manifest>
