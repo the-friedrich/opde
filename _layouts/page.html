@@ -10,12 +10,15 @@
   </head>
 
   <body>
+    
+    <div class="content">
+      {{ content }}
+    </div>
 
     <div class="all-posts">
-    
-                {% for post in site.posts %}
-      <div>{{ post.content }}</div>
-                {% endfor %}
+    {% for post in site.posts %}
+      <article>{{ post.content }}</article>
+    {% endfor %}
     </div>
   </body>
 </html>
