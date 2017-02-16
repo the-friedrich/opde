@@ -1,5 +1,5 @@
 ---
-template: page
+layout: page
 ---
 
 # The Title
