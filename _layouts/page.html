@@ -11,11 +11,11 @@
 
   <body>
 
-    
+    <div class="all-posts">
     
                 {% for post in site.posts %}
-                    {{ post.content }}
+      <div>{{ post.content }}</div>
                 {% endfor %}
-
+    </div>
   </body>
 </html>
