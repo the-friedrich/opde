@@ -15,7 +15,7 @@ p{
 }
 
 h1{
-  color: slategray;
+  color: gray;
   font-family: 'Roboto Slab', serif;
 }
 
@@ -38,4 +38,12 @@ hr{
   text-align: center;
   color: white;
   text-transform: uppercase;
+  font-size: 3em;
+  transition: 0.3s
+}
+h1.site-title:hover {
+
+  color: tomato;
+transition: 0.3s;
+cursor:pointer;
 }
