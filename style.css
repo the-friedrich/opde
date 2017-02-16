@@ -18,6 +18,9 @@ h1{
   color: gray;
   font-family: 'Roboto Slab', serif;
 }
+.content>h1{
+  text-align: center;
+}
 
 img{
   width: 100%;
