@@ -17,7 +17,6 @@ p{
 h1{
   color: slategray;
   font-family: 'Roboto Slab', serif;
-  text-transform: uppercase;
 }
 
 img{
@@ -37,4 +36,6 @@ hr{
 
 .site-title{
   text-align: center;
+  color: white;
+  text-transform: uppercase;
 }
